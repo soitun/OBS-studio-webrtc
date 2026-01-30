@@ -1,4 +1,9 @@
 
+# Deprecated
+
+This repository has been deprecated.
+OBS now supports sending multiple quality layers natively to Dolby Optiview (Millicast) with [Enhanced Broadcasting](https://optiview.dolby.com/docs/millicast/software-encoders/obs/enhanced-broadcasting-multitrack-video/)
+
 # OBS-studio WebRTC
 
 This project is a fork of OBS-studio with support for WebRTC. WebRTC supports comes from the inclusion of the open source implementation from webrtc.org used (at least in part) by chrome, firefox, and safari.
